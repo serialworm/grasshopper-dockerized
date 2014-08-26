@@ -1,0 +1,15 @@
+{
+  "name": "grasshopper-dockerized",
+  "version": "0.0.0",
+  "description": "Grasshopper (API + Admin) in a Docker container",
+  "dependencies": {
+    "grasshopper-admin": "^0.29.1",
+    "grasshopper-api": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Beringer",
+  "license": "ISC"
+}
